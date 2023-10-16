@@ -1,4 +1,13 @@
-p {
+.odd {
 background-color:pink;
 font-family:"Verdana", "DejaVu Sans", 'Segoe UI', Verdana, Geneva, Tahoma, sans-serif;
 }
+#two
+{
+    color: blue; 
+    font-size: 32px;
+}
+#four {
+    background-color: hsl(120, 100%, 75%);
+    font-weight: bold;
+  }
